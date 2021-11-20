@@ -1,0 +1,50 @@
+﻿{
+    "ver":"5.0",
+    "tag":"appnetctrl",
+    "data":[
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQ\\Bin\\maLauncher.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQ\\Bin\\maUpdat.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQ\\Bin\\QQExternal.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQ\\Bin\\QQPcmgrDownload.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQ\\Bin\\Tencentdl.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQMusic\\QMDesktopAnimation.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQMusic\\QQMusicExternal.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQMusic\\QQMusicService.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Tencent\\QQMusic\\QQMusicSvr.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\resources\\bin\\TBC\\xlbrowsershell.exe",
+            "block":true
+        },
+        {
+            "procname":"C:\\Program Files (x86)\\Thunder Network\\Thunder\\Program\\XLServicePlatform.exe",
+            "block":true
+        }
+    ]
+}
