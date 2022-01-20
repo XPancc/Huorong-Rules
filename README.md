@@ -18,6 +18,8 @@ Thunder 迅雷（基本所有版本都适用吧）
 
 #### 不要在弹出的提示内选择“记住本次操作”，否则会对所有文件生效。如有需要修改可以至 自动处理 规则内添加。
 
+#### 如有问题可自行尝试解决或者提交Issues（不一定及时回复、解决）
+
 -------------------------------------------------------------------------------------------------------
 
 # Huorong-Rules
@@ -39,3 +41,5 @@ Just import it directly.
 #### Note that the two files should be imported in different tabs, and switch at the top of the window! ! !
 
 #### Do not select "Remember this operation" in the pop-up prompt, otherwise it will take effect for all files. If you need to modify it, you can add it to the automatic processing rule.
+
+#### If there is a problem, you can try to solve it yourself or submit Issues (not necessarily timely reply and solution)
