@@ -462,7 +462,7 @@
             {
                 "res_path":"*\\Microsoft\\Edge\\*",
                 "montype":1,
-                "action_type":15,
+                "action_type":13,
                 "treatment":3
             },
             {
