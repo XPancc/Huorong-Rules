@@ -544,12 +544,6 @@
                 "treatment":3
             },
             {
-                "res_path":"*hosts*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
                 "res_path":"*\\Users\\*\\Desktop\\*",
                 "montype":1,
                 "action_type":15,
@@ -569,18 +563,6 @@
             },
             {
                 "res_path":"*tst.tmp*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*hosts*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*np*.dll*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
@@ -629,6 +611,24 @@
             },
             {
                 "res_path":"*\\nvidia\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*Microsoft*",
+                "montype":1,
+                "action_type":13,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\msedge.exe",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\TPDownloadProxy\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
