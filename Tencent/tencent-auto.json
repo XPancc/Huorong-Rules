@@ -632,6 +632,12 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\rtscom.dll",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
             }
         ]
     }
