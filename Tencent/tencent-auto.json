@@ -656,12 +656,6 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
-            },
-            {
-                "res_path":"*\\TPDownloadProxy\\*",
-                "montype":1,
-                "action_type":13,
-                "treatment":3
             }
         ]
     }
