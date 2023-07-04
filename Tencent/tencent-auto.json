@@ -662,6 +662,30 @@
                 "montype":1,
                 "action_type":13,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\msimgsiz.dat",
+                "montype":1,
+                "action_type":2,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\TableTextService.dll",
+                "montype":1,
+                "action_type":2,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\tiptsf.dll",
+                "montype":1,
+                "action_type":2,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\SPTIP.DLL",
+                "montype":1,
+                "action_type":2,
+                "treatment":3
             }
         ]
     }
