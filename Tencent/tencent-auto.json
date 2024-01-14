@@ -686,6 +686,30 @@
                 "montype":1,
                 "action_type":2,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\Microsoft OneDrive\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Adobe Sync\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Microsoft\\Crypto\\RSA\\MachineKeys\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\explorer*",
+                "montype":1,
+                "action_type":2,
+                "treatment":3
             }
         ]
     }
