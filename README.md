@@ -6,8 +6,20 @@ Thunder 迅雷（基本所有版本都适用吧）
 
 #### 使用方法：
 
+5.0
+
 一般规则：
 设置->高级防护->自定义防护（注意启用）
+分别导入 “自定义规则”（XXX-custom.json）、“自动处理规则”（XXX-auto.json）。
+
+网站规则：
+设置->网络防护->恶意网站拦截（注意启用）
+直接导入即可。
+
+6.0
+
+一般规则：
+设置->系统防护->自定义防护（注意启用）
 分别导入 “自定义规则”（XXX-custom.json）、“自动处理规则”（XXX-auto.json）。
 
 网站规则：
@@ -30,8 +42,22 @@ Thunder (Basically all versions are applicable)
 
 #### Instructions:
 
+5.0
+
 General rules:
 Settings -> Advanced protection -> Custom protection (note enable)
+Import "custom rules" (XXX-custom.json) and "automatic processing rules" (XXX-auto.json) respectively.
+
+Website Rules:
+Settings -> Network Protection -> Malicious website blocking (note enable)
+Just import it directly.
+
+6.0
+
+General rules:
+
+Settings ->System Protection ->Custom Protection (note to enable)
+
 Import "custom rules" (XXX-custom.json) and "automatic processing rules" (XXX-auto.json) respectively.
 
 Website Rules:
