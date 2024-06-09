@@ -738,6 +738,26 @@
                 "p_cmdline":"*",
                 "montype":1,
                 "treatment":0
+            },
+            {
+                "res_cmdline":"*",
+                "res_path":"*\\chrome\\User Data\\*",
+                "action_type":2,
+                "cmdline":"*",
+                "p_procname":"*",
+                "p_cmdline":"*",
+                "montype":1,
+                "treatment":0
+            },
+            {
+                "res_cmdline":"*",
+                "res_path":"*\\Chrome\\*",
+                "action_type":15,
+                "cmdline":"*",
+                "p_procname":"*",
+                "p_cmdline":"*",
+                "montype":1,
+                "treatment":0
             }
         ],
         "System":[
